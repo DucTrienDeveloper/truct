@@ -1,2 +1,3 @@
 hello
 xin chào tôi là ai?
+chào
